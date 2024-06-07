@@ -1,4 +1,4 @@
-// let score="13karm"
+let score="13karm"
 
 // console.log(typeof score );
 
